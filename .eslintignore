@@ -1,0 +1,6 @@
+node_modules
+dist
+
+webpack.config.*.js
+i18next-scanner.config.js
+postcss.config.js
